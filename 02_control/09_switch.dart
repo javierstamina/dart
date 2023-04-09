@@ -18,7 +18,7 @@ main() {
   //   print('No es un día de la semana');
   // }
   
-  rnd = 10;
+  //rnd = 10;
 
   print(rnd);
   switch ( rnd ) { // 0,1,2,3,4,5,6, 'fernando', juan, pedro
